@@ -1,0 +1,1 @@
+# pre-shiho.samura-git-training
