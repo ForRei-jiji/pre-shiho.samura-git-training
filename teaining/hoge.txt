@@ -4,3 +4,5 @@ git研修
 作業ブランチ作成
 traning_2/branch_2
 training_3/branch_1
+training_3/branch_2
+コンフリクト解決
