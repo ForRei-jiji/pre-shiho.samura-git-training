@@ -1,3 +1,4 @@
+training_2/branch_1
 FY25新卒研修
 git研修
 作業ブランチ作成
